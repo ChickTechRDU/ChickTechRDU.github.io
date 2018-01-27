@@ -1,7 +1,7 @@
 ---
 layout: food
 title: "Bamboo Shoot Soup"
-date: 1500-37-40
+date: 1500-7-12
 author: eoommenrainbow1
 permalink: ./bamboo-shoots/
 detail: "Bambootastic!"
