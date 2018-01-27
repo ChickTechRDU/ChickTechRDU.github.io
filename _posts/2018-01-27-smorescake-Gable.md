@@ -10,8 +10,7 @@ img: "/IMG_0437.JPG"
 ---
 
 
-Smores Cake Recipe
---------------------
+## Smores Cake Recipe
 
 * No idea
 * But it's really good
