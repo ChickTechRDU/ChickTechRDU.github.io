@@ -6,7 +6,7 @@ author: me
 permalink: ./Spaghetti/
 detail: "delicious"
 en: en
-img: spaghetti.jpg 
+img: /spaghetti.jpg 
 ---
 
 
